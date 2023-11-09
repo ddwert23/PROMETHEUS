@@ -19,5 +19,3 @@ The merits of the new method:
 
 
 For a full description - download a file with the extension .htm English or Russian and open it in your browser.
-    
-аа
