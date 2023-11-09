@@ -16,3 +16,8 @@ The merits of the new method:
 11) Mutual aid mechanism - a non-guaranteed mechanism, but one that allows for a significant increase in service area.
 12) Construction of a real full-fledged network, similar to a trunking network - for convenient communication of many users.
 13) The method lends itself well to automation (and, even, mechanization ). Unlike Morse code.
+
+
+For a full description - download a file with the extension .htm English or Russian and open it in your browser.
+    
+аа
